@@ -21,7 +21,7 @@
 
     /* General Appearance */
     --theme-roundness: .75rem;
-    --theme-blur: 16px;
+    --theme-blur: 32px;
 }
 
 /* Remove the Default Focus Outline */
